@@ -1,0 +1,325 @@
+[
+    {
+        "id":1,
+        "name": "HTML",
+        "category": "Courses",
+        "price": "59.99",
+        "image": "<i class=\"fa-solid fa-computer-mouse\"></i>"
+    },
+
+    {
+        "id": 2,
+        "name": "CSS",
+        "category": "Courses",
+        "price": "39.99",
+        "image": "<i class=\"fa-solid fa-computer-mouse\"></i>"
+    },
+
+    {
+        "id": 3,
+        "name": "JavaScript",
+        "category": "Courses",
+        "price": "129.99",
+        "image": "<i class=\"fa-solid fa-computer-mouse\"></i>"
+    },
+
+    {
+        "id": 4,
+        "name": "Tailwind CSS",
+        "category": "Courses",
+        "price": "129.99",
+        "image": "<i class=\"fa-solid fa-computer-mouse\"></i>"
+    },
+
+    {
+        "id": 5,
+        "name": "Node Js",
+        "category": "Courses",
+        "price": "119.99",
+        "image": "<i class=\"fa-solid fa-computer-mouse\"></i>"
+    },
+
+    {
+        "id": 6,
+        "name": "Bootstrap",
+        "category": "Courses",
+        "price":"49.99",
+        "image": "<i class=\"fa-solid fa-computer-mouse\"></i>"
+    },
+
+    {
+        "id": 7,
+        "name": "React",
+        "category": "Courses",
+        "price":"119.99",
+        "image": "<i class=\"fa-solid fa-computer-mouse\"></i>"
+    },
+
+    {
+        "id": 8,
+        "name": "JavaScript Advanced",
+        "category": "Courses",
+        "price": "149.99",
+        "image": "<i class=\"fa-solid fa-computer-mouse\"></i>"
+    },
+
+    {
+        "id": 9,
+        "name": "Vue Js",
+        "category": "Courses",
+        "price": "119.99",
+        "image": "<i class=\"fa-solid fa-computer-mouse\"></i>"
+    },
+
+    {
+        "id": 10,
+        "name": "CSS Grid",
+        "category": "Courses",
+        "price": "49.99",
+        "image": "<i class=\"fa-solid fa-computer-mouse\"></i>"
+    },
+
+    {
+        "id": 11,
+        "name": "Asus Rog Mykeyboard",
+        "category": "Keyboards",
+        "price": "79.99",
+        "image": "<i class=\"fa-solid fa-computer-mouse\"></i>"
+    },
+
+    {
+        "id": 12,
+        "name": "Logitech G920",
+        "category": "Keyboards",
+        "price": "149.99",
+        "image": "<i class=\"fa-solid fa-computer-mouse\"></i>"
+    },
+
+    {
+        "id": 13,
+        "name": "AjazzAk33",
+        "category": "Keyboards",
+        "price": "34.90",
+        "image": "<i class=\"fa-solid fa-computer-mouse\"></i>"
+    },
+
+    {
+        "id": 14,
+        "name": "Logitech G903",
+        "category": "Keyboards",
+        "price": "170.99",
+        "image": "<i class=\"fa-solid fa-computer-mouse\"></i>"
+    },
+
+    {
+        "id": 15,
+        "name": "JavaScript basics to top",
+        "category": "E-books",
+        "price": "7.99",
+        "image": "<i class=\"fa-solid fa-computer-mouse\"></i>"
+    },
+
+    {
+        "id": 16,
+        "name": "Html & Css basics",
+        "category": "E-books",
+        "price": "5.99",
+        "image": "<i class=\"fa-solid fa-computer-mouse\"></i>"
+    },
+
+    {
+        "id": 17,
+        "name": "History of Web",
+        "category": "E-books",
+        "price": "3.99",
+        "image": "<i class=\"fa-solid fa-computer-mouse\"></i>"
+    },
+
+    {
+        "id": 18,
+        "name": "Cybersecurity",
+        "category": "E-books",
+        "price": "9.99",
+        "image": "<i class=\"fa-solid fa-computer-mouse\"></i>"
+    },
+    
+    {
+        "id": 19,
+        "name": "Logitech G502",
+        "category": "Mouse",
+        "price": "90.64",
+        "image": "<i class=\"fa-solid fa-computer-mouse\"></i>"
+    },
+
+    {
+        "id": 21,
+        "name": "Logitech G-Pro",
+        "category": "Mouse",
+        "price": "180.99",
+        "image": "<i class=\"fa-solid fa-computer-mouse\"></i>"
+    },
+    
+
+    {
+        "id": 22,
+        "name": "Samsung Odyssey g9",
+        "category": "Monitor",
+        "price": "2199.99",
+        "image": "<i class=\"fa-solid fa-desktop\"></i>"
+    },
+
+    {
+        "id": 23,
+        "name": "Samsung Odyssey g5",
+        "category": "Monitor",
+        "price": "1499.99",
+        "image": "<i class=\"fa-solid fa-desktop\"></i>"
+    },
+
+    {
+        "id": 24,
+        "name": "Samsung Odyssey g6",
+        "category": "Monitor",
+        "price": "1699.99",
+        "image": "<i class=\"fa-solid fa-desktop\"></i>"
+    },
+
+    {
+        "id": 25,
+        "name": "Samsung Odyssey g7",
+        "category": "Monitor",
+        "price": "1899.99",
+        "image": "<i class=\"fa-solid fa-desktop\"></i>"
+
+    },
+    
+    {
+        "id": 26,
+        "name": "JBL H800",
+        "category": "Headset",
+        "price": "129.99",
+        "image": "<i class=\"fa-solid fa-computer-mouse\"></i>"
+    },
+
+    {
+        "id": 27,
+        "name": "Sennheiser S220V",
+        "category": "Headset",
+        "price": "349.99",
+        "image": "<i class=\"fa-solid fa-computer-mouse\"></i>"
+    },
+
+    {
+        "id": 28,
+        "name": "Bose BassHunter",
+        "category": "Headset",
+        "price": "499.99",
+        "image": "<i class=\"fa-solid fa-computer-mouse\"></i>"
+    },
+
+    {
+        "id": 29,
+        "name": "Trust EarinMe",
+        "category": "Headset",
+        "price": "34.99",
+        "image": "<i class=\"fa-solid fa-computer-mouse\"></i>"
+    },
+
+    {
+        "id": 30,
+        "name": "NordVPN",
+        "category": "VPN",
+        "price": "210.12",
+        "image": "<i class=\"fa-solid fa-computer-mouse\"></i>"
+    },
+
+    {
+        "id": 31,
+        "name": "TunnelBear",
+        "category": "VPN",
+        "price": "166.15",
+        "image": "<i class=\"fa-solid fa-computer-mouse\"></i>"
+    },
+
+    {
+        "id": 32,
+        "name": "Tor",
+        "category": "VPN",
+        "price": "15.85",
+        "image": "<i class=\"fa-duotone fa-shield-check\"></i>"
+    },
+
+    {
+        "id": 33,
+        "name": "Lenovo Homedesk",
+        "category": "Laptop",
+        "price": "1300.41",
+        "image": "<i class=\"fa-solid fa-laptop-code\"></i>"
+    },
+
+    {
+        "id": 34,
+        "name": "LG Gram 17",
+        "category": "Laptop",
+        "price": "2412.25",
+        "image": "<i class=\"fa-solid fa-laptop-code\"></i>"
+    },
+
+    {
+        "id": 35,
+        "name": "Asus Rog Swift 15",
+        "category": "Laptop",
+        "price": "2525.14",
+        "image": "<i class=\"fa-solid fa-laptop-code\"></i>"
+    },
+
+    {
+        "id": 37,
+        "name": "Alienware c17",
+        "category": "Laptop",
+        "price": "3999.99",
+        "image": "<i class=\"fa-solid fa-laptop-code\"></i>"
+    },
+
+    {
+        "id": 38,
+        "name": "Alienware c20",
+        "category": "Laptop",
+        "price": "4999.99",
+        "image": "<i class=\"fa-solid fa-laptop-code\"></i>"
+    },
+
+    {
+        "id": 39,
+        "name": "Netgear G1",
+        "category": "Router",
+        "price": "69.99",
+        "image": "<i class=\"fa-solid fa-computer-mouse\"></i>"
+    },
+
+    {
+        "id": 40,
+        "name": "ZTE K1",
+        "category": "Router",
+        "price": "34.99",
+        "image": "<i class=\"fa-solid fa-computer-mouse\"></i>"
+    },
+
+    {
+        "id": 41,
+        "name": "Macbook Pro",
+        "category": "Laptop",
+        "price": "2340.37",
+        "image": "<i class=\"fa-solid fa-laptop-code\"></i>"
+    },
+
+    {
+        "id": 42,
+        "name": "D-link c5000",
+        "category": "Router",
+        "price": "49.99",
+        "image": "<i class=\"fa-solid fa-laptop-code\"></i>"
+    }
+
+    
+]
